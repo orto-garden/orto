@@ -61,7 +61,7 @@ kotlin {
 
     cocoapods {
         summary = "Shared data access and business logic module for Orto frontend."
-        homepage = "https://codeberg.org/uwutech/Orto"
+        homepage = "https://github.com/orto-garden/orto "
         version = Orto.versionName
         ios.deploymentTarget = "14.1"
         podfile = project.file("../iosApp/Podfile")

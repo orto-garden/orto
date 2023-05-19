@@ -1,7 +1,7 @@
 Pod::Spec.new do |spec|
     spec.name                     = 'shared'
     spec.version                  = '0.1.1-SNAPSHOT'
-    spec.homepage                 = 'https://codeberg.org/uwutech/Orto'
+    spec.homepage                 = 'https://github.com/orto-garden/orto'
     spec.source                   = { :http=> ''}
     spec.authors                  = ''
     spec.license                  = ''
